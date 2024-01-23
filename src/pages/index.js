@@ -8,7 +8,7 @@ import * as styles from "../components/index.module.css"
 
 const links = [
   {
-    text: "Tutorial 222",
+    text: "Tutorial222222",
     url: "https://www.gatsbyjs.com/docs/tutorial",
     description:
       "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
@@ -35,7 +35,7 @@ const links = [
 
 const samplePageLinks = [
   {
-    text: "Page 2",
+    text: "Page 20000000000",
     url: "page-2",
     badge: false,
     description:
